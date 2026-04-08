@@ -1,0 +1,12 @@
+1#Juan#Perez#Lopez#23#H#600123456#1200.50#12345678A      
+2#Ana#Garcia#Martinez#60#M#600987654#1500.75#87654321B    
+3#Luis#Sanchez#Ruiz#30#H#600111222#1300#11223344C        
+4#Marta#Lopez#Diaz#28#F#600222333#1400.00                
+5#Carlos#Hernandez#Gomez#45#H#600333444#1600#99887766D#ExtraCampo  
+6#Lucia#Martinez#Santos#0#F#600444555#1200#44556677E    
+7#Pedro#Alvarez#Lopez#150#H#600555666#1300#55667788F    
+8#Sofia#Diaz#Perez#35#F#600666777#-1200#66778899G        
+9#Andres#Ruiz#Vega#Treinta#H#600777888#1400#77889900H    
+10#Laura#Gomez#Molina#40#F#600888999#Mil#88990011I       
+11##Lopez#Diaz#25#H#600999000#1200#99001122J            
+12#Mario##Sanchez#50#H#601000111#1500#10111223K         

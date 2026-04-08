@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+    <empleado>
+        <DNI>87654321B    </DNI>
+        <Nombre>Ana</Nombre>
+        <Apellidos>Garcia Martinez</Apellidos>
+        <Edad>60</Edad>
+        <Telefono>600987654</Telefono>
+        <Sexo>M</Sexo>
+        <Sueldo>21010.5</Sueldo>
+    </empleado>
+</Empleados>

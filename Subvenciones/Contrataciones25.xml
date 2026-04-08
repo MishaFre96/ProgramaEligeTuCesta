@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+    <empleado>
+        <DNI>12345678A      </DNI>
+        <Nombre>Juan</Nombre>
+        <Apellidos>Perez Lopez</Apellidos>
+        <Edad>23</Edad>
+        <Telefono>600123456</Telefono>
+        <Sexo>H</Sexo>
+        <Sueldo>16807.0</Sueldo>
+    </empleado>
+</Empleados>
